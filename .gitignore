@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+#build
+/build
+/bin
+
+#history
+/.history
+
+#docs
+/docs
+/test
