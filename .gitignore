@@ -37,6 +37,8 @@
 
 #history
 /.history
+/.vscode
+/.cache
 
 #docs
 /docs
